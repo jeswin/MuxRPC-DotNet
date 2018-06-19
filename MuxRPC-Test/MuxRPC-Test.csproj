@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\muxrpc\muxrpc.csproj" />
+    <ProjectReference Include="..\MuxRPC\MuxRPC.csproj" />
   </ItemGroup>
 
 </Project>

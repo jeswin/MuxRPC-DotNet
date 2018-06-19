@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/muxrpc-test/muxrpc-test.csproj"
+                "${workspaceFolder}/MuxRPC-Test/MuxRPC-Test.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

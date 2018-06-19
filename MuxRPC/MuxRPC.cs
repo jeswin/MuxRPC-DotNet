@@ -1,7 +1,7 @@
 ﻿using System;
 
-namespace muxrpc {
-    public class MuxRPC {
+namespace MuxRPC {
+    public class Boom {
         public string SayHello () {
             throw new Exception("That did not work.");
             return "Hello world";

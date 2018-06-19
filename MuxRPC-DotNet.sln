@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "muxrpc", "muxrpc\muxrpc.csproj", "{0E9D4945-4A33-4285-B37F-186700562463}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuxRPC", "MuxRPC\MuxRPC.csproj", "{0E9D4945-4A33-4285-B37F-186700562463}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "muxrpc-test", "muxrpc-test\muxrpc-test.csproj", "{8D81BD84-9A11-459B-B790-06B4BA1A44D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuxRPC-Test", "MuxRPC-Test\MuxRPC-Test.csproj", "{8D81BD84-9A11-459B-B790-06B4BA1A44D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
