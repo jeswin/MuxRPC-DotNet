@@ -1,9 +1,0 @@
-/home/jeswin/repos/jeswin/scuttlebutt-dotnet/muxrpc/bin/Debug/netcoreapp2.0/muxrpc.deps.json
-/home/jeswin/repos/jeswin/scuttlebutt-dotnet/muxrpc/bin/Debug/netcoreapp2.0/muxrpc.dll
-/home/jeswin/repos/jeswin/scuttlebutt-dotnet/muxrpc/bin/Debug/netcoreapp2.0/muxrpc.pdb
-/home/jeswin/repos/jeswin/scuttlebutt-dotnet/muxrpc/obj/Debug/netcoreapp2.0/muxrpc.csprojResolveAssemblyReference.cache
-/home/jeswin/repos/jeswin/scuttlebutt-dotnet/muxrpc/obj/Debug/netcoreapp2.0/muxrpc.csproj.CoreCompileInputs.cache
-/home/jeswin/repos/jeswin/scuttlebutt-dotnet/muxrpc/obj/Debug/netcoreapp2.0/muxrpc.AssemblyInfoInputs.cache
-/home/jeswin/repos/jeswin/scuttlebutt-dotnet/muxrpc/obj/Debug/netcoreapp2.0/muxrpc.AssemblyInfo.cs
-/home/jeswin/repos/jeswin/scuttlebutt-dotnet/muxrpc/obj/Debug/netcoreapp2.0/muxrpc.dll
-/home/jeswin/repos/jeswin/scuttlebutt-dotnet/muxrpc/obj/Debug/netcoreapp2.0/muxrpc.pdb
